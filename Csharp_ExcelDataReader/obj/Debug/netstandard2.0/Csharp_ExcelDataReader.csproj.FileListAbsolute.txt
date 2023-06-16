@@ -1,0 +1,4 @@
+D:\ExcelDataReader Csharp\Csharp_ExcelDataReader\Csharp_ExcelDataReader\obj\Debug\netstandard2.0\Csharp_ExcelDataReader.csprojAssemblyReference.cache
+D:\ExcelDataReader Csharp\Csharp_ExcelDataReader\Csharp_ExcelDataReader\obj\Debug\netstandard2.0\Csharp_ExcelDataReader.AssemblyInfoInputs.cache
+D:\ExcelDataReader Csharp\Csharp_ExcelDataReader\Csharp_ExcelDataReader\obj\Debug\netstandard2.0\Csharp_ExcelDataReader.AssemblyInfo.cs
+D:\ExcelDataReader Csharp\Csharp_ExcelDataReader\Csharp_ExcelDataReader\obj\Debug\netstandard2.0\Csharp_ExcelDataReader.csproj.CoreCompileInputs.cache
